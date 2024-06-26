@@ -1,5 +1,6 @@
 # inventory-management-frontend
 
+
 ## Project setup
 ```
 pnpm install
